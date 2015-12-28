@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://giaiphapthuonghieu.vn/daotaoseo-dao-tao-seo-website-thuc-hanh-du-an-seo-thuc-te.html?utm_source=google&utm_medium=Kh%C3%B4ng%20ph%E1%BA%A3i%20tr%E1%BA%A3%20ti%E1%BB%81n&utm_campaign=ads_trackling&utm_term=seo&utm_content=seo' target='_blank'><img src='http://i38.photobucket.com/albums/e109/lovespyqb/hotlinechuyennhabannerchuyenhha_zps1eagggvg.png' width='500px'/>ÄĂ o táº¡o seo chuyĂªn sĂ¢u</a>. Há»c táº¡i nhĂ  Linh Nguyá»…n. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://chuyennhacuongthinh.com/' target='_blank'><img src='http://i38.photobucket.com/albums/e109/lovespyqb/hotlinechuyennhabannerchuyenhha_zps1eagggvg.png' width='500px'/>Chuyển nhà </a>. Há»c táº¡i nhĂ  Linh Nguyá»…n. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
